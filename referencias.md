@@ -33,7 +33,7 @@
     import "https://cdn.jsdelivr.net/npm/@tensorflow-models/hand-pose-detection@2.0.0/dist/hand-pose-detection.min.js"
     import "https://cdn.jsdelivr.net/npm/fingerpose@0.1.0/dist/fingerpose.min.js"
 ```
-- Problema que encontrei na hora de usar webworker no hands.js: https://github.com/tensorflow/tfjs/issues/7380
+- Problema que encontrei na hora de usar webworker no hands.js: https://github.com/tensorflow/tfjs/issues/7380 xpnevgxOuH
 - PR aberto no fingerpose: https://github.com/andypotato/fingerpose/pull/25
 - Meu fingerpose: https://github.com/ErickWendel/fingerpose
 - Jokenpo: https://github.com/andypotato/rock-paper-scissors
